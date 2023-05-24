@@ -87,6 +87,10 @@
 
 <br>
 
+---
+
+<br>
+
 ## 📃 데이터 명세
 ![image](https://github.com/Projcet-E201/.github/assets/74294301/d57b76a5-5d7e-4f06-8d98-20b3e4dca200)
 ![image](https://github.com/Projcet-E201/.github/assets/74294301/5b37ed34-9f65-4e42-a4ab-ffa4c932e36c)
