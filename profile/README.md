@@ -4,7 +4,7 @@
 
 <br>
 
-[![gif](../asset/machine_state_gif.gif)](https://youtu.be/TqG5Wmtujec)
+[![gif](/asset/machine_state_gif.gif)](https://youtu.be/TqG5Wmtujec)
 🔼 클릭하면 UCC를 볼 수 있어요 !
 
 <br>
