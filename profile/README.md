@@ -4,7 +4,8 @@
 
 <br>
 
-[![CPT2305221535-1699x1030-min](https://github.com/mauv2sky/IUJ/assets/74294301/eae2a255-0559-4da3-8b98-ec3d79838c91)](https://youtu.be/TqG5Wmtujec)
+[![gif](../asset/machine_state_gif.gif)](https://youtu.be/TqG5Wmtujec)
+🔼 클릭하면 UCC를 볼 수 있어요 !
 
 <br>
 
